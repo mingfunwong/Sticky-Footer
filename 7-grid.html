@@ -1,0 +1,30 @@
+<body>
+  <div class="content">
+    content
+  </div>
+  <footer class="footer">footer</footer>
+</body>
+
+
+<style>
+  html,
+  body {
+    margin: 0;
+  }
+
+  html {
+    height: 100%;
+  }
+
+  body {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: 1fr auto;
+  }
+
+  .footer {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    background-color: #ccc;
+  }
+</style>
