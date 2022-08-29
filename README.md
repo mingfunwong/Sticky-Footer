@@ -4,7 +4,7 @@
 
 ## 兼容性
 
-| 浏览器 | 1-push | 2-inside | 3-flexbox | 4-absolute | 5-calc | 6-table | 7-grid |
+| 浏览器 | 1-push | 2-inside | 3-flexbox | 4-absolute | 5-calc | 6-table | 7-grid（推荐） |
 |--------|--------|----------|-----------|------------|--------|---------|--------|
 | IE11   | ✅      | ✅        | ❌         | ✅          | ✅      | ✅       | ❌      |
 | Chrome | ✅      | ✅        | ✅         | ✅          | ✅      | ✅       | ✅      |
